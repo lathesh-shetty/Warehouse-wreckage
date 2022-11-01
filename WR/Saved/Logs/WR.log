@@ -1996,3 +1996,308 @@ Recommended: 516.25
 [2022.11.01-05.53.41:492][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
 [2022.11.01-05.53.52:739][371]BlueprintLog: New page: Compile Wharehouse
 [2022.11.01-05.53.52:816][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.01-05.54.34:699][155]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.01-05.54.34:699][155]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.01-05.54.34:938][155]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Level/Wharehouse.Wharehouse:PersistentLevel.PlayerStart_0
+[2022.11.01-05.54.34:951][155]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.01-05.54.35:293][155]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Level/Wharehouse.Wharehouse:PersistentLevel.PlayerStart_0
+[2022.11.01-05.54.35:293][155]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.01-05.54.35:305][155]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.01-05.54.38:193][303]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.01-05.54.40:674][434]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.01-05.54.42:934][556]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.01-05.54.48:054][820]Cmd: DUPLICATE
+[2022.11.01-05.54.48:054][820]Cmd: ACTOR DUPLICATE
+[2022.11.01-05.55.07:234][846]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp/BP_Barrel02_Blueprint.BP_Barrel02_Blueprint_C
+[2022.11.01-05.55.07:234][846]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp/BP_Barrel02_Blueprint.BP_Barrel02_Blueprint_C
+[2022.11.01-05.55.07:235][846]LogActorFactory: Actor Factory spawned Blueprint /Game/bp/BP_Barrel02_Blueprint.BP_Barrel02_Blueprint as actor: BP_Barrel02_Blueprint_C /Game/Level/Wharehouse.Wharehouse:PersistentLevel.BP_Barrel02_Blueprint_C_1
+[2022.11.01-05.55.07:235][846]LogActorFactory: Actor Factory spawned Blueprint /Game/bp/BP_Barrel02_Blueprint.BP_Barrel02_Blueprint as actor: BP_Barrel02_Blueprint_C /Game/Level/Wharehouse.Wharehouse:PersistentLevel.BP_Barrel02_Blueprint_C_1
+[2022.11.01-05.55.07:756][873]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp/BP_Barrel02_Blueprint.BP_Barrel02_Blueprint_C
+[2022.11.01-05.55.07:756][873]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp/BP_Barrel02_Blueprint.BP_Barrel02_Blueprint_C
+[2022.11.01-05.55.07:757][873]LogActorFactory: Actor Factory spawned Blueprint /Game/bp/BP_Barrel02_Blueprint.BP_Barrel02_Blueprint as actor: BP_Barrel02_Blueprint_C /Game/Level/Wharehouse.Wharehouse:PersistentLevel.BP_Barrel02_Blueprint_C_47
+[2022.11.01-05.55.07:757][873]LogActorFactory: Actor Factory spawned Blueprint /Game/bp/BP_Barrel02_Blueprint.BP_Barrel02_Blueprint as actor: BP_Barrel02_Blueprint_C /Game/Level/Wharehouse.Wharehouse:PersistentLevel.BP_Barrel02_Blueprint_C_47
+[2022.11.01-05.55.16:357][362]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp/BP_Barrel03_Blueprint.BP_Barrel03_Blueprint_C
+[2022.11.01-05.55.16:357][362]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp/BP_Barrel03_Blueprint.BP_Barrel03_Blueprint_C
+[2022.11.01-05.55.16:358][362]LogActorFactory: Actor Factory spawned Blueprint /Game/bp/BP_Barrel03_Blueprint.BP_Barrel03_Blueprint as actor: BP_Barrel03_Blueprint_C /Game/Level/Wharehouse.Wharehouse:PersistentLevel.BP_Barrel03_Blueprint_C_0
+[2022.11.01-05.55.16:358][362]LogActorFactory: Actor Factory spawned Blueprint /Game/bp/BP_Barrel03_Blueprint.BP_Barrel03_Blueprint as actor: BP_Barrel03_Blueprint_C /Game/Level/Wharehouse.Wharehouse:PersistentLevel.BP_Barrel03_Blueprint_C_0
+[2022.11.01-05.55.16:849][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp/BP_Barrel03_Blueprint.BP_Barrel03_Blueprint_C
+[2022.11.01-05.55.16:849][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp/BP_Barrel03_Blueprint.BP_Barrel03_Blueprint_C
+[2022.11.01-05.55.16:851][391]LogActorFactory: Actor Factory spawned Blueprint /Game/bp/BP_Barrel03_Blueprint.BP_Barrel03_Blueprint as actor: BP_Barrel03_Blueprint_C /Game/Level/Wharehouse.Wharehouse:PersistentLevel.BP_Barrel03_Blueprint_C_2
+[2022.11.01-05.55.16:851][391]LogActorFactory: Actor Factory spawned Blueprint /Game/bp/BP_Barrel03_Blueprint.BP_Barrel03_Blueprint as actor: BP_Barrel03_Blueprint_C /Game/Level/Wharehouse.Wharehouse:PersistentLevel.BP_Barrel03_Blueprint_C_2
+[2022.11.01-05.57.53:279][159]Cmd: DELETE
+[2022.11.01-05.57.53:365][159]Cmd: ACTOR DELETE
+[2022.11.01-05.57.53:703][159]LogEditorActor: Deleted Actor: BP_Barrel03_Blueprint_C
+[2022.11.01-05.57.53:746][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.01-05.57.53:748][159]LogEditorActor: Deleted 1 Actors (0.310 secs)
+[2022.11.01-05.58.01:756][625]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.01-05.58.01:760][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.01-05.58.01:761][625]PIE: New page: PIE session: Wharehouse (Nov 1, 2022, 4:58:01 PM)
+[2022.11.01-05.58.01:761][625]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Wharehouse
+[2022.11.01-05.58.02:041][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.279404s)
+[2022.11.01-05.58.02:041][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Wharehouse.Wharehouse to /Game/Level/UEDPIE_0_Wharehouse.Wharehouse (0.279487s)
+[2022.11.01-05.58.02:041][625]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.01-05.58.02:041][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.01-05.58.02:042][625]LogAIModule: Creating AISystem for world Wharehouse
+[2022.11.01-05.58.02:042][625]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2022.11.01-05.58.02:084][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.11.01-05.58.02:086][625]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.01-05.58.02:086][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.01-05.58.02:086][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.01-05.58.02:086][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.01-05.58.02:086][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.01-05.58.02:086][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.01-05.58.02:086][625]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.01-05.58.02:086][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.01-05.58.02:086][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.01-05.58.02:087][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.01-05.58.02:087][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.01-05.58.02:087][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.01-05.58.02:089][625]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.01-05.58.02:124][625]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.01-05.58.02:124][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.01-05.58.02:124][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.01-05.58.02:124][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.01-05.58.02:124][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.11.01-05.58.02:125][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.11.01-05.58.02:126][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.11.01-05.58.02:126][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.11.01-05.58.02:126][625]LogInit: FAudioDevice initialized.
+[2022.11.01-05.58.02:126][625]LogAudio: Display: Audio Device (ID: 8) registered with world 'Wharehouse'.
+[2022.11.01-05.58.02:142][625]LogLoad: Game class is 'GameModeBase'
+[2022.11.01-05.58.02:143][625]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-05.58.02:143][625]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-05.58.02:146][625]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-05.58.02:146][625]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-05.58.02:147][625]LogWorld: Bringing World /Game/Level/UEDPIE_0_Wharehouse.Wharehouse up for play (max tick rate 60) at 2022.11.01-11.28.02
+[2022.11.01-05.58.02:147][625]LogWorld: Bringing up level for play took: 0.005244
+[2022.11.01-05.58.02:149][625]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.11.01-05.58.02:287][625]LogBlueprintUserMessages: [Wharehouse_C_6] Welcome to Wwharehouse wreckage
+[2022.11.01-05.58.02:287][625]LogBlueprintUserMessages: [Wharehouse_C_6] Ammo =20
+[2022.11.01-05.58.02:287][625]PIE: Server logged in
+[2022.11.01-05.58.02:288][625]PIE: Play in editor total start time 0.527 seconds.
+[2022.11.01-05.58.04:539][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-05.58.04:539][753]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Wharehouse
+[2022.11.01-05.58.04:540][753]LogWorld: UWorld::CleanupWorld for Wharehouse, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-05.58.04:541][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-05.58.04:553][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.01-05.58.04:559][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-05.58.04:598][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.01-05.58.04:598][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.01-05.58.04:600][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.01-05.58.04:603][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-05.58.04:607][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.01-05.58.04:652][754]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.11.01-06.00.15:154][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Wharehouse" FILE="../../../../../../Git/Warehouse-wreckage/WR/Content/Level/Wharehouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.01-06.00.15:198][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.11.01-06.00.15:356][216]LogSavePackage: Moving output files for package: /Game/Level/Wharehouse
+[2022.11.01-06.00.15:356][216]LogSavePackage: Moving '../../../../../../Git/Warehouse-wreckage/WR/Saved/Wharehouse74E567AE4F4FA7712E84A1BA27758EA0.tmp' to '../../../../../../Git/Warehouse-wreckage/WR/Content/Level/Wharehouse.umap'
+[2022.11.01-06.00.15:368][216]LogFileHelpers: No new changes to save!
+[2022.11.01-06.00.15:368][216]LogFileHelpers: Saving map 'Wharehouse' took 0.215
+[2022.11.01-06.00.15:384][216]AssetCheck: New page: Asset Save: Wharehouse
+[2022.11.01-06.00.15:385][216]LogContentValidation: Display: Validating World /Game/Level/Wharehouse.Wharehouse
+[2022.11.01-06.00.16:744][296]BlueprintLog: New page: Compile Wharehouse
+[2022.11.01-06.00.16:829][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.01-06.00.19:297][435]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.01-06.00.19:302][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.01-06.00.19:302][435]PIE: New page: PIE session: Wharehouse (Nov 1, 2022, 5:00:19 PM)
+[2022.11.01-06.00.19:330][435]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Wharehouse
+[2022.11.01-06.00.19:354][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024126s)
+[2022.11.01-06.00.19:354][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Wharehouse.Wharehouse to /Game/Level/UEDPIE_0_Wharehouse.Wharehouse (0.024225s)
+[2022.11.01-06.00.19:354][435]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.01-06.00.19:354][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.01-06.00.19:354][435]LogAIModule: Creating AISystem for world Wharehouse
+[2022.11.01-06.00.19:355][435]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2022.11.01-06.00.19:396][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.01-06.00.19:397][435]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.01-06.00.19:397][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.01-06.00.19:397][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.01-06.00.19:397][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.01-06.00.19:397][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.01-06.00.19:397][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.01-06.00.19:397][435]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.01-06.00.19:398][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.01-06.00.19:398][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.01-06.00.19:398][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.01-06.00.19:398][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.01-06.00.19:398][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.01-06.00.19:400][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.01-06.00.19:435][435]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.01-06.00.19:435][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.01-06.00.19:435][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.01-06.00.19:435][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.01-06.00.19:436][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.11.01-06.00.19:436][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.11.01-06.00.19:437][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.11.01-06.00.19:437][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.11.01-06.00.19:437][435]LogInit: FAudioDevice initialized.
+[2022.11.01-06.00.19:437][435]LogAudio: Display: Audio Device (ID: 9) registered with world 'Wharehouse'.
+[2022.11.01-06.00.19:453][435]LogLoad: Game class is 'GameModeBase'
+[2022.11.01-06.00.19:454][435]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.00.19:454][435]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.00.19:457][435]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.00.19:457][435]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.00.19:463][435]LogWorld: Bringing World /Game/Level/UEDPIE_0_Wharehouse.Wharehouse up for play (max tick rate 60) at 2022.11.01-11.30.19
+[2022.11.01-06.00.19:463][435]LogWorld: Bringing up level for play took: 0.010563
+[2022.11.01-06.00.19:464][435]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.11.01-06.00.19:466][435]LogBlueprintUserMessages: [Wharehouse_C_7] Welcome to Wwharehouse wreckage
+[2022.11.01-06.00.19:466][435]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =20
+[2022.11.01-06.00.19:466][435]PIE: Server logged in
+[2022.11.01-06.00.19:466][435]PIE: Play in editor total start time 0.165 seconds.
+[2022.11.01-06.00.22:162][590]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =49
+[2022.11.01-06.00.23:095][646]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =48
+[2022.11.01-06.00.24:996][760]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =47
+[2022.11.01-06.00.26:462][848]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =46
+[2022.11.01-06.00.27:780][927]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =45
+[2022.11.01-06.00.30:179][ 71]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =44
+[2022.11.01-06.00.31:096][126]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =43
+[2022.11.01-06.00.32:429][206]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =42
+[2022.11.01-06.00.33:196][252]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =41
+[2022.11.01-06.00.36:196][432]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =40
+[2022.11.01-06.00.36:996][480]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =39
+[2022.11.01-06.00.37:946][537]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =38
+[2022.11.01-06.00.38:913][595]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =37
+[2022.11.01-06.00.39:713][643]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =36
+[2022.11.01-06.00.41:179][731]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =35
+[2022.11.01-06.00.42:029][782]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =34
+[2022.11.01-06.00.43:113][847]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =33
+[2022.11.01-06.00.44:347][921]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =32
+[2022.11.01-06.00.44:980][959]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =31
+[2022.11.01-06.00.46:596][ 56]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =30
+[2022.11.01-06.00.47:296][ 98]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =29
+[2022.11.01-06.00.48:463][168]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =28
+[2022.11.01-06.00.49:080][205]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =27
+[2022.11.01-06.00.51:447][347]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =26
+[2022.11.01-06.00.53:037][438]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =25
+[2022.11.01-06.00.54:304][514]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =24
+[2022.11.01-06.00.55:254][571]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =23
+[2022.11.01-06.00.56:020][617]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =22
+[2022.11.01-06.00.58:321][755]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =21
+[2022.11.01-06.00.59:704][838]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =20
+[2022.11.01-06.01.01:253][931]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =19
+[2022.11.01-06.01.02:337][996]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =18
+[2022.11.01-06.01.03:137][ 44]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =17
+[2022.11.01-06.01.05:137][164]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =16
+[2022.11.01-06.01.06:187][227]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =15
+[2022.11.01-06.01.07:020][277]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =14
+[2022.11.01-06.01.07:937][332]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =13
+[2022.11.01-06.01.09:153][405]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =12
+[2022.11.01-06.01.10:020][457]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =11
+[2022.11.01-06.01.12:105][582]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =10
+[2022.11.01-06.01.13:387][659]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =9
+[2022.11.01-06.01.16:137][824]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =8
+[2022.11.01-06.01.17:337][896]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =7
+[2022.11.01-06.01.18:266][950]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =6
+[2022.11.01-06.01.19:116][  1]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =5
+[2022.11.01-06.01.19:699][ 36]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =4
+[2022.11.01-06.01.21:183][118]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =3
+[2022.11.01-06.01.22:085][160]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =2
+[2022.11.01-06.01.22:650][188]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =1
+[2022.11.01-06.01.23:441][226]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =0
+[2022.11.01-06.01.23:996][253]LogDerivedDataCache: C:/Users/lathesh shetty/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.514 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.01-06.01.24:585][280]LogBlueprintUserMessages: [Wharehouse_C_7] You are out of Ammo
+[2022.11.01-06.01.25:007][298]LogBlueprintUserMessages: [Wharehouse_C_7] You are out of Ammo
+[2022.11.01-06.01.25:446][318]LogBlueprintUserMessages: [Wharehouse_C_7] You are out of Ammo
+[2022.11.01-06.01.26:183][352]LogBlueprintUserMessages: [Wharehouse_C_7] You are out of Ammo
+[2022.11.01-06.01.26:638][369]LogBlueprintUserMessages: [Wharehouse_C_7] Restarting Soon
+[2022.11.01-06.01.29:623][505]LogNet: Browse: /Game/Level/Wharehouse
+[2022.11.01-06.01.29:629][505]LogLoad: LoadMap: /Game/Level/Wharehouse
+[2022.11.01-06.01.29:629][505]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Wharehouse
+[2022.11.01-06.01.29:640][505]LogWorld: UWorld::CleanupWorld for Wharehouse, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-06.01.29:642][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-06.01.29:683][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.01-06.01.29:690][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.11.01-06.01.29:793][505]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Wharehouse
+[2022.11.01-06.01.29:815][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023464s)
+[2022.11.01-06.01.29:815][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Wharehouse.Wharehouse to /Game/Level/UEDPIE_0_Wharehouse.Wharehouse (0.023589s)
+[2022.11.01-06.01.29:833][505]LogAudio: Display: Audio Device (ID: 9) registered with world 'Wharehouse'.
+[2022.11.01-06.01.29:833][505]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.01-06.01.29:833][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.01-06.01.29:834][505]LogAIModule: Creating AISystem for world Wharehouse
+[2022.11.01-06.01.29:834][505]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.11.01-06.01.29:834][505]LogLoad: Game class is 'GameModeBase'
+[2022.11.01-06.01.29:835][505]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.01.29:835][505]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.01.29:837][505]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.01.29:837][505]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.01.29:884][505]LogWorld: Bringing World /Game/Level/UEDPIE_0_Wharehouse.Wharehouse up for play (max tick rate 60) at 2022.11.01-11.31.29
+[2022.11.01-06.01.29:884][505]LogWorld: Bringing up level for play took: 0.050525
+[2022.11.01-06.01.29:885][505]LogBlueprintUserMessages: [Wharehouse_C_7] Welcome to Wwharehouse wreckage
+[2022.11.01-06.01.29:885][505]LogBlueprintUserMessages: [Wharehouse_C_7] Ammo =20
+[2022.11.01-06.01.29:909][505]LogLoad: Took 0.279972 seconds to LoadMap(/Game/Level/UEDPIE_0_Wharehouse)
+[2022.11.01-06.01.32:861][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-06.01.32:861][677]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Wharehouse
+[2022.11.01-06.01.32:861][677]LogWorld: UWorld::CleanupWorld for Wharehouse, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-06.01.32:862][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-06.01.32:873][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.01-06.01.32:879][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-06.01.32:918][677]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.01-06.01.32:920][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.01-06.01.32:921][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.01-06.01.32:925][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-06.01.32:930][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.11.01-06.01.33:046][678]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.11.01-06.02.20:222][269]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.01-06.02.22:499][392]BlueprintLog: New page: Compile Wharehouse
+[2022.11.01-06.02.22:583][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.11.01-06.02.25:987][592]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.01-06.02.25:992][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.01-06.02.25:992][592]PIE: New page: PIE session: Wharehouse (Nov 1, 2022, 5:02:25 PM)
+[2022.11.01-06.02.25:992][592]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Wharehouse
+[2022.11.01-06.02.26:016][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024216s)
+[2022.11.01-06.02.26:016][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Wharehouse.Wharehouse to /Game/Level/UEDPIE_0_Wharehouse.Wharehouse (0.024282s)
+[2022.11.01-06.02.26:016][592]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.01-06.02.26:016][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.01-06.02.26:017][592]LogAIModule: Creating AISystem for world Wharehouse
+[2022.11.01-06.02.26:017][592]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2022.11.01-06.02.26:058][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.01-06.02.26:060][592]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.01-06.02.26:060][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.01-06.02.26:060][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.01-06.02.26:060][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.01-06.02.26:060][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.01-06.02.26:060][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.01-06.02.26:060][592]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.01-06.02.26:060][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.01-06.02.26:060][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.01-06.02.26:061][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.01-06.02.26:061][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.01-06.02.26:061][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.01-06.02.26:062][592]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.01-06.02.26:097][592]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.01-06.02.26:097][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.01-06.02.26:097][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.01-06.02.26:097][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.01-06.02.26:098][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.11.01-06.02.26:098][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.11.01-06.02.26:099][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.11.01-06.02.26:099][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.11.01-06.02.26:099][592]LogInit: FAudioDevice initialized.
+[2022.11.01-06.02.26:099][592]LogAudio: Display: Audio Device (ID: 10) registered with world 'Wharehouse'.
+[2022.11.01-06.02.26:108][592]LogLoad: Game class is 'GameModeBase'
+[2022.11.01-06.02.26:109][592]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.02.26:109][592]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.02.26:112][592]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.02.26:112][592]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.01-06.02.26:119][592]LogWorld: Bringing World /Game/Level/UEDPIE_0_Wharehouse.Wharehouse up for play (max tick rate 60) at 2022.11.01-11.32.26
+[2022.11.01-06.02.26:119][592]LogWorld: Bringing up level for play took: 0.010720
+[2022.11.01-06.02.26:121][592]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.11.01-06.02.26:122][592]LogBlueprintUserMessages: [Wharehouse_C_8] Welcome to Wwharehouse wreckage
+[2022.11.01-06.02.26:122][592]LogBlueprintUserMessages: [Wharehouse_C_8] Press space to shoot 
+[2022.11.01-06.02.26:122][592]LogBlueprintUserMessages: [Wharehouse_C_8] Ammo =20
+[2022.11.01-06.02.26:122][592]PIE: Server logged in
+[2022.11.01-06.02.26:123][592]PIE: Play in editor total start time 0.131 seconds.
+[2022.11.01-06.02.28:700][742]LogBlueprintUserMessages: [Wharehouse_C_8] Ammo =39
+[2022.11.01-06.02.29:483][789]LogBlueprintUserMessages: [Wharehouse_C_8] Ammo =38
+[2022.11.01-06.02.30:516][851]LogBlueprintUserMessages: [Wharehouse_C_8] Ammo =37
+[2022.11.01-06.02.31:390][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-06.02.31:390][901]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Wharehouse
+[2022.11.01-06.02.31:391][901]LogWorld: UWorld::CleanupWorld for Wharehouse, bSessionEnded=true, bCleanupResources=true
+[2022.11.01-06.02.31:392][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-06.02.31:404][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.01-06.02.31:410][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.01-06.02.31:450][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.01-06.02.31:450][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.01-06.02.31:451][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.01-06.02.31:455][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.01-06.02.31:461][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.11.01-06.02.31:525][902]LogPlayLevel: Display: Destroying online subsystem :Context_19
